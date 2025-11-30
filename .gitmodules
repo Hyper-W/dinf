@@ -1,0 +1,3 @@
+[submodule "alpine-dinf"]
+	path = alpine-dinf
+	url = git@github.com:Hyper-W/alpine-dinf.git
